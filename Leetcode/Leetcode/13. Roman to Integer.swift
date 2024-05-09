@@ -10,6 +10,10 @@ import Foundation
 /// https://leetcode.com/problems/roman-to-integer/description/
 
 
+//Solution_Roman_to_Integer().romanToInt("III") // 3
+//Solution_Roman_to_Integer().romanToInt("LVIII") // 58
+//Solution_Roman_to_Integer().romanToInt("MCMXCIV") // 1994
+
 // 다음 숫자는 더 작은 값이어야 함
 // 만약 다음 숫자가 크다면 다음 숫자에서 지금 숫자를 뺀 값을 더한다.
 class Solution_Roman_to_Integer {
