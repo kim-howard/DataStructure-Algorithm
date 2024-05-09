@@ -22,12 +22,21 @@ class Solution_Longest_Common_Prefix {
         strs = ["dog","dog"]
         print(strs)
         print(longestCommonPrefix(strs))
+        
+        strs = ["abab","aba", ""]
+        print(strs)
+        print(longestCommonPrefix(strs))
     }
     
     func longestCommonPrefix(_ strs: [String]) -> String {
         var result = strs[0]
         
         for singleStr in strs[1...] {
+            
+            if singleStr.isEmpty {
+                result = ""
+                break
+            }
             
             var tempIndex = -1
             
@@ -79,3 +88,20 @@ extension String {
         return String(self[start..<end])
     }
 }
+
+// hasPrefix 활용
+//class Solution {
+//    func longestCommonPrefix(_ strs: [String]) -> String {
+//        guard !strs.isEmpty else {return ""}
+//        var commonPrefix = strs[0]
+//        for str in strs {
+//            while !str.hasPrefix(commonPrefix) {
+//                commonPrefix.removeLast()
+//            if commonPrefix.isEmpty {
+//                return ""
+//            }
+//            }
+//        }
+//        return commonPrefix
+//    }
+//}
