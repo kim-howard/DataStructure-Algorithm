@@ -10,6 +10,7 @@
 		FEEFC4182BEB3AE7009BF099 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEEFC4172BEB3AE7009BF099 /* main.swift */; };
 		FEEFC41F2BEB3AF6009BF099 /* 13. Roman to Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEEFC41E2BEB3AF6009BF099 /* 13. Roman to Integer.swift */; };
 		FEEFC4212BEC85BE009BF099 /* 14. Longest Common Prefix.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEEFC4202BEC85BE009BF099 /* 14. Longest Common Prefix.swift */; };
+		FEEFC4232BEDD7AC009BF099 /* 20. Valid Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEEFC4222BEDD7AC009BF099 /* 20. Valid Parentheses.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		FEEFC4172BEB3AE7009BF099 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		FEEFC41E2BEB3AF6009BF099 /* 13. Roman to Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "13. Roman to Integer.swift"; sourceTree = "<group>"; };
 		FEEFC4202BEC85BE009BF099 /* 14. Longest Common Prefix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "14. Longest Common Prefix.swift"; sourceTree = "<group>"; };
+		FEEFC4222BEDD7AC009BF099 /* 20. Valid Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "20. Valid Parentheses.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				FEEFC4172BEB3AE7009BF099 /* main.swift */,
 				FEEFC41E2BEB3AF6009BF099 /* 13. Roman to Integer.swift */,
 				FEEFC4202BEC85BE009BF099 /* 14. Longest Common Prefix.swift */,
+				FEEFC4222BEDD7AC009BF099 /* 20. Valid Parentheses.swift */,
 			);
 			path = Leetcode;
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FEEFC4232BEDD7AC009BF099 /* 20. Valid Parentheses.swift in Sources */,
 				FEEFC4182BEB3AE7009BF099 /* main.swift in Sources */,
 				FEEFC41F2BEB3AF6009BF099 /* 13. Roman to Integer.swift in Sources */,
 				FEEFC4212BEC85BE009BF099 /* 14. Longest Common Prefix.swift in Sources */,
