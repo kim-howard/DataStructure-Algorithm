@@ -11,6 +11,8 @@
 		FEEFC41F2BEB3AF6009BF099 /* 13. Roman to Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEEFC41E2BEB3AF6009BF099 /* 13. Roman to Integer.swift */; };
 		FEEFC4212BEC85BE009BF099 /* 14. Longest Common Prefix.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEEFC4202BEC85BE009BF099 /* 14. Longest Common Prefix.swift */; };
 		FEEFC4232BEDD7AC009BF099 /* 20. Valid Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEEFC4222BEDD7AC009BF099 /* 20. Valid Parentheses.swift */; };
+		FEEFC4252BEF686A009BF099 /* 857. Minimum Cost to Hire K Workers.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEEFC4242BEF686A009BF099 /* 857. Minimum Cost to Hire K Workers.swift */; };
+		FEEFC4272BF0B49B009BF099 /* 2373. Largest Local Values in a Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEEFC4262BF0B49B009BF099 /* 2373. Largest Local Values in a Matrix.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +33,8 @@
 		FEEFC41E2BEB3AF6009BF099 /* 13. Roman to Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "13. Roman to Integer.swift"; sourceTree = "<group>"; };
 		FEEFC4202BEC85BE009BF099 /* 14. Longest Common Prefix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "14. Longest Common Prefix.swift"; sourceTree = "<group>"; };
 		FEEFC4222BEDD7AC009BF099 /* 20. Valid Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "20. Valid Parentheses.swift"; sourceTree = "<group>"; };
+		FEEFC4242BEF686A009BF099 /* 857. Minimum Cost to Hire K Workers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "857. Minimum Cost to Hire K Workers.swift"; sourceTree = "<group>"; };
+		FEEFC4262BF0B49B009BF099 /* 2373. Largest Local Values in a Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2373. Largest Local Values in a Matrix.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +71,8 @@
 				FEEFC41E2BEB3AF6009BF099 /* 13. Roman to Integer.swift */,
 				FEEFC4202BEC85BE009BF099 /* 14. Longest Common Prefix.swift */,
 				FEEFC4222BEDD7AC009BF099 /* 20. Valid Parentheses.swift */,
+				FEEFC4242BEF686A009BF099 /* 857. Minimum Cost to Hire K Workers.swift */,
+				FEEFC4262BF0B49B009BF099 /* 2373. Largest Local Values in a Matrix.swift */,
 			);
 			path = Leetcode;
 			sourceTree = "<group>";
@@ -129,10 +135,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FEEFC4272BF0B49B009BF099 /* 2373. Largest Local Values in a Matrix.swift in Sources */,
 				FEEFC4232BEDD7AC009BF099 /* 20. Valid Parentheses.swift in Sources */,
 				FEEFC4182BEB3AE7009BF099 /* main.swift in Sources */,
 				FEEFC41F2BEB3AF6009BF099 /* 13. Roman to Integer.swift in Sources */,
 				FEEFC4212BEC85BE009BF099 /* 14. Longest Common Prefix.swift in Sources */,
+				FEEFC4252BEF686A009BF099 /* 857. Minimum Cost to Hire K Workers.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
