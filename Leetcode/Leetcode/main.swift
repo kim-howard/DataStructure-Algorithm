@@ -7,7 +7,8 @@
 
 import Foundation
 
-Solution_Largest_Local_Values_in_a_Matrix()
+Solution_Pascal_s_Triangle()
+//Solution_Largest_Local_Values_in_a_Matrix()
 //Solution_Minimum_Cost_to_Hire_K_Workers()
 
 //Solution_Valid_Parentheses()
