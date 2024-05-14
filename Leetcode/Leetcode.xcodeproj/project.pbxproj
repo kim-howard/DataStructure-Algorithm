@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		FE273C082BF253CD00613B99 /* 118. Pascal's Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE273C072BF253CD00613B99 /* 118. Pascal's Triangle.swift */; };
 		FE273C0A2BF25BBF00613B99 /* 861. Score After Flipping Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE273C092BF25BBF00613B99 /* 861. Score After Flipping Matrix.swift */; };
+		FE273C0C2BF3143800613B99 /* 1219. Path with Maximum Gold.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE273C0B2BF3143800613B99 /* 1219. Path with Maximum Gold.swift */; };
 		FEEFC4182BEB3AE7009BF099 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEEFC4172BEB3AE7009BF099 /* main.swift */; };
 		FEEFC41F2BEB3AF6009BF099 /* 13. Roman to Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEEFC41E2BEB3AF6009BF099 /* 13. Roman to Integer.swift */; };
 		FEEFC4212BEC85BE009BF099 /* 14. Longest Common Prefix.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEEFC4202BEC85BE009BF099 /* 14. Longest Common Prefix.swift */; };
@@ -32,6 +33,7 @@
 /* Begin PBXFileReference section */
 		FE273C072BF253CD00613B99 /* 118. Pascal's Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "118. Pascal's Triangle.swift"; sourceTree = "<group>"; };
 		FE273C092BF25BBF00613B99 /* 861. Score After Flipping Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "861. Score After Flipping Matrix.swift"; sourceTree = "<group>"; };
+		FE273C0B2BF3143800613B99 /* 1219. Path with Maximum Gold.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1219. Path with Maximum Gold.swift"; sourceTree = "<group>"; };
 		FEEFC4142BEB3AE7009BF099 /* Leetcode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Leetcode; sourceTree = BUILT_PRODUCTS_DIR; };
 		FEEFC4172BEB3AE7009BF099 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		FEEFC41E2BEB3AF6009BF099 /* 13. Roman to Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "13. Roman to Integer.swift"; sourceTree = "<group>"; };
@@ -78,6 +80,7 @@
 				FEEFC4242BEF686A009BF099 /* 857. Minimum Cost to Hire K Workers.swift */,
 				FE273C072BF253CD00613B99 /* 118. Pascal's Triangle.swift */,
 				FE273C092BF25BBF00613B99 /* 861. Score After Flipping Matrix.swift */,
+				FE273C0B2BF3143800613B99 /* 1219. Path with Maximum Gold.swift */,
 				FEEFC4262BF0B49B009BF099 /* 2373. Largest Local Values in a Matrix.swift */,
 			);
 			path = Leetcode;
@@ -145,6 +148,7 @@
 				FEEFC4232BEDD7AC009BF099 /* 20. Valid Parentheses.swift in Sources */,
 				FE273C0A2BF25BBF00613B99 /* 861. Score After Flipping Matrix.swift in Sources */,
 				FEEFC4182BEB3AE7009BF099 /* main.swift in Sources */,
+				FE273C0C2BF3143800613B99 /* 1219. Path with Maximum Gold.swift in Sources */,
 				FE273C082BF253CD00613B99 /* 118. Pascal's Triangle.swift in Sources */,
 				FEEFC41F2BEB3AF6009BF099 /* 13. Roman to Integer.swift in Sources */,
 				FEEFC4212BEC85BE009BF099 /* 14. Longest Common Prefix.swift in Sources */,
