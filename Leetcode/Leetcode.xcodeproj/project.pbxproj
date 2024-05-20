@@ -66,6 +66,34 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		FE273C172BFB935100613B99 /* Pass */ = {
+			isa = PBXGroup;
+			children = (
+				89A88F912BFB0D02002AA50C /* 1863. Sum of All Subset XOR Totals.swift */,
+				FE273C152BFA3BCF00613B99 /* 94. Binary Tree Inorder Traversal.swift */,
+				FEEFC41E2BEB3AF6009BF099 /* 13. Roman to Integer.swift */,
+				FEEFC4202BEC85BE009BF099 /* 14. Longest Common Prefix.swift */,
+				FEEFC4222BEDD7AC009BF099 /* 20. Valid Parentheses.swift */,
+				FE273C072BF253CD00613B99 /* 118. Pascal's Triangle.swift */,
+				FE273C092BF25BBF00613B99 /* 861. Score After Flipping Matrix.swift */,
+				FE273C0B2BF3143800613B99 /* 1219. Path with Maximum Gold.swift */,
+				FE273C0D2BF5C06D00613B99 /* 2331. Evaluate Boolean Binary Tree.swift */,
+				FE273C0F2BF70B6C00613B99 /* 1325. Delete Leaves With a Given Value.swift */,
+				FE273C132BF9A71E00613B99 /* Weekly Contest 398.swift */,
+				FEEFC4262BF0B49B009BF099 /* 2373. Largest Local Values in a Matrix.swift */,
+			);
+			path = Pass;
+			sourceTree = "<group>";
+		};
+		FE273C182BFB935400613B99 /* Fail */ = {
+			isa = PBXGroup;
+			children = (
+				FE273C112BF880D100613B99 /* 979. Distribute Coins in Binary Tree.swift */,
+				FEEFC4242BEF686A009BF099 /* 857. Minimum Cost to Hire K Workers.swift */,
+			);
+			path = Fail;
+			sourceTree = "<group>";
+		};
 		FEEFC40B2BEB3AE7009BF099 = {
 			isa = PBXGroup;
 			children = (
@@ -85,21 +113,9 @@
 		FEEFC4162BEB3AE7009BF099 /* Leetcode */ = {
 			isa = PBXGroup;
 			children = (
-				89A88F912BFB0D02002AA50C /* 1863. Sum of All Subset XOR Totals.swift */,
+				FE273C182BFB935400613B99 /* Fail */,
+				FE273C172BFB935100613B99 /* Pass */,
 				FEEFC4172BEB3AE7009BF099 /* main.swift */,
-				FE273C152BFA3BCF00613B99 /* 94. Binary Tree Inorder Traversal.swift */,
-				FEEFC41E2BEB3AF6009BF099 /* 13. Roman to Integer.swift */,
-				FEEFC4202BEC85BE009BF099 /* 14. Longest Common Prefix.swift */,
-				FEEFC4222BEDD7AC009BF099 /* 20. Valid Parentheses.swift */,
-				FEEFC4242BEF686A009BF099 /* 857. Minimum Cost to Hire K Workers.swift */,
-				FE273C072BF253CD00613B99 /* 118. Pascal's Triangle.swift */,
-				FE273C092BF25BBF00613B99 /* 861. Score After Flipping Matrix.swift */,
-				FE273C0B2BF3143800613B99 /* 1219. Path with Maximum Gold.swift */,
-				FE273C0D2BF5C06D00613B99 /* 2331. Evaluate Boolean Binary Tree.swift */,
-				FE273C0F2BF70B6C00613B99 /* 1325. Delete Leaves With a Given Value.swift */,
-				FE273C112BF880D100613B99 /* 979. Distribute Coins in Binary Tree.swift */,
-				FE273C132BF9A71E00613B99 /* Weekly Contest 398.swift */,
-				FEEFC4262BF0B49B009BF099 /* 2373. Largest Local Values in a Matrix.swift */,
 			);
 			path = Leetcode;
 			sourceTree = "<group>";
