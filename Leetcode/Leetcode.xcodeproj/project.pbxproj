@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		89A88F922BFB0D02002AA50C /* 1863. Sum of All Subset XOR Totals.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89A88F912BFB0D02002AA50C /* 1863. Sum of All Subset XOR Totals.swift */; };
 		FE273C082BF253CD00613B99 /* 118. Pascal's Triangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE273C072BF253CD00613B99 /* 118. Pascal's Triangle.swift */; };
 		FE273C0A2BF25BBF00613B99 /* 861. Score After Flipping Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE273C092BF25BBF00613B99 /* 861. Score After Flipping Matrix.swift */; };
 		FE273C0C2BF3143800613B99 /* 1219. Path with Maximum Gold.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE273C0B2BF3143800613B99 /* 1219. Path with Maximum Gold.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		89A88F912BFB0D02002AA50C /* 1863. Sum of All Subset XOR Totals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1863. Sum of All Subset XOR Totals.swift"; sourceTree = "<group>"; };
 		FE273C072BF253CD00613B99 /* 118. Pascal's Triangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "118. Pascal's Triangle.swift"; sourceTree = "<group>"; };
 		FE273C092BF25BBF00613B99 /* 861. Score After Flipping Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "861. Score After Flipping Matrix.swift"; sourceTree = "<group>"; };
 		FE273C0B2BF3143800613B99 /* 1219. Path with Maximum Gold.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1219. Path with Maximum Gold.swift"; sourceTree = "<group>"; };
@@ -83,6 +85,7 @@
 		FEEFC4162BEB3AE7009BF099 /* Leetcode */ = {
 			isa = PBXGroup;
 			children = (
+				89A88F912BFB0D02002AA50C /* 1863. Sum of All Subset XOR Totals.swift */,
 				FEEFC4172BEB3AE7009BF099 /* main.swift */,
 				FE273C152BFA3BCF00613B99 /* 94. Binary Tree Inorder Traversal.swift */,
 				FEEFC41E2BEB3AF6009BF099 /* 13. Roman to Integer.swift */,
@@ -171,6 +174,7 @@
 				FEEFC41F2BEB3AF6009BF099 /* 13. Roman to Integer.swift in Sources */,
 				FEEFC4212BEC85BE009BF099 /* 14. Longest Common Prefix.swift in Sources */,
 				FEEFC4252BEF686A009BF099 /* 857. Minimum Cost to Hire K Workers.swift in Sources */,
+				89A88F922BFB0D02002AA50C /* 1863. Sum of All Subset XOR Totals.swift in Sources */,
 				FE273C122BF880D100613B99 /* 979. Distribute Coins in Binary Tree.swift in Sources */,
 				FE273C162BFA3BCF00613B99 /* 94. Binary Tree Inorder Traversal.swift in Sources */,
 			);
